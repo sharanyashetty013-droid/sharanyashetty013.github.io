@@ -1,24 +1,23 @@
-# 👋 Hi, I'm Sharanya Shetty!
+# 👋 Hey, I'm Sharanya L Shetty!
 
 Welcome to my personal website 🌼  
-I'm a BTech CSE student at NMAMIT with a strong interest in **Data Science**, **AI**, and **Web Development**.
+I'm a 1st year BTech CSE student at NMAMIT with a strong interest in **Data Science**, **AI**, and **Web Development**.
 
 ---
 
 ## 🌐 About This Site
 
 This is my very first GitHub Pages website!  
-Stay tuned — I’ll be adding cool projects, notes, and blogs soon.
+Stay tuned — I’ll be adding cool projects and notes soon.
 
 ---
 
 ## 📌 Skills I'm Learning
 
-- HTML, CSS & JavaScript
+- HTML, CSS 
 - C Programming
 - Python for Data Analysis
 - Git & GitHub
-- Problem Solving
 
 ---
 
@@ -27,15 +26,15 @@ Stay tuned — I’ll be adding cool projects, notes, and blogs soon.
 - Personal Portfolio  
 - Weather App using API  
 - C programming mini-games  
-- AI-powered chatbot demo  
+  
 
 ---
 
 ## 📫 Connect with Me
 
-- 📧 Email: [your-email@example.com]  
+- 📧 Email: [sharanyashetty013@gmail.com]  
 - 🌐 GitHub: [@sharanyashetty013](https://github.com/sharanyashetty013)
 
 ---
 
-Thanks for visiting! 😊
+Thank you for visiting! 😊
