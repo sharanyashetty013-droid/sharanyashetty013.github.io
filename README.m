@@ -1,4 +1,4 @@
-# 👋 Hey,I'm Sharanya L Shetty!
+# 👋 Hey, I'm Sharanya L Shetty!
 
 Welcome to my personal website 🌼  
 I'm a 1st year BTech CSE student at NMAMIT with a strong interest in **Data Science**, **AI**, and **Web Development**.
